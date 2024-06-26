@@ -1,9 +1,9 @@
 # Data Scientist
 
 ## Technical skills
-#### Database software: PostgreSQL/PostGIS, MySQL 
-#### Data Analysis: HTML, CSS, PHP, Python, Tableau, PowerBI
-#### GIS software: Illustrator, MapInfo, MaPublisher, Global Mapper, ArcGis, QGis
+**Database software**: PostgreSQL/PostGIS, MySQL 
+**Data Analysis**: HTML, CSS, PHP, Python, Tableau, PowerBI
+**GIS software**: Illustrator, MapInfo, MaPublisher, Global Mapper, ArcGis, QGis
 
 
 ## Education
@@ -12,7 +12,7 @@
 - B.S., Computer science | UNIKA University of Haiti (_June 2005_)
 
 ## Work Experience
-**GIS Analyst @ The National Geospatial Information Center, CNIGS (_Mars 2007 - Mars 2017)**
+**GIS Analyst @ The National Geospatial Information Center, CNIGS (_Mars 2007 - Present)**
 - Map creation using polygons, lines, and points to represent visual data
 - Utilized GIS software to create and analyze spatial data for various projects
 - Developed GIS applications for data analysis and visualization
@@ -25,7 +25,7 @@
 ### Increasing Yield and Production with Linear regression, Decision Trees, and Random Forest
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The system utilizes machine learning techniques to predict the agricultural yield rate in this project. Python and the Jupiter Notebook interface are widely accepted programming languages for implementing innovative ideas in machine learning. By employing machine learning techniques such as Linear Regression, Random Forest regression, and Decision Tree regression, the project will generate forecasts for agricultural yield and production based on the provided dataset.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
