@@ -1,4 +1,4 @@
 # BarbaJean.github.io
-Data scientist
-Bellevue university
-Project
+# Data scientist
+## Bellevue university
+## Project
