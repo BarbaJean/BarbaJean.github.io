@@ -1,23 +1,28 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical skills
+#### Database software: PostgreSQL/PostGIS, MySQL 
+#### Data Analysis: HTML, CSS, PHP, Python, Tableau, PowerBI
+#### GIS software: Illustrator, MapInfo, MaPublisher, Global Mapper, ArcGis, QGis
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S.,Data Science | Bellevue University of Nebraska (_August 2024_)							       		
+- License Pro, Geographic Information Systems & Technology	| The National Geographic Sciences School of France (_October 2012_)	 	   		
+- B.S., Computer science | UNIKA University of Haiti (_June 2005_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**GIS Analyst @ The National Geospatial Information Center, CNIGS (_Mars 2007 - Mars 2017)**
+- Map creation using polygons, lines, and points to represent visual data
+- Utilized GIS software to create and analyze spatial data for various projects
+- Developed GIS applications for data analysis and visualization
+- Created GIS maps for presentation and provided technical assistance to clients
+- Performed GIS data collection and analysis using various software, including ArcGIS and MapInfo
+- Developed and maintained GIS databases using various tools and techniques
+- Prepared and maintained GIS maps and data for various projects
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+## Projects in Data science
+### Increasing Yield and Production with Linear regression, Decision Trees, and Random Forest
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
