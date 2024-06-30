@@ -23,7 +23,8 @@
 
 ## Projects in Data science
 ### 1- Increasing Yield and Production with Linear regression, Decision Trees, and Random Forest
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Link](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/Project_increasing_yield.pdf)
+
 
 The system utilizes machine learning techniques to predict the agricultural yield rate in this project. Python and the Jupiter Notebook interface are widely accepted programming languages for implementing innovative ideas in machine learning. By employing machine learning techniques such as Linear Regression, Random Forest regression, and Decision Tree regression, the project will generate forecasts for agricultural yield and production based on the provided dataset.
 
