@@ -27,21 +27,15 @@
 
 The system utilizes machine learning techniques to predict the agricultural yield rate in this project. Python and the Jupiter Notebook interface are widely accepted programming languages for implementing innovative ideas in machine learning. By employing machine learning techniques such as Linear Regression, Random Forest regression, and Decision Tree regression, the project will generate forecasts for agricultural yield and production based on the provided dataset.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Energy Consumption Predictive Model for Bundoora Campus
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+We are developing an Energy Consumption Predictive Model using regression modeling to improve energy efficiency and reduce operating costs. This model can predict numerical values by analyzing historical and real-time data, such as energy usage, weather conditions, gas and water consumption, and daily electricity usage. By identifying areas of excessive energy use and implementing energy-efficient measures, the model can help boost profitability.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### What factors might impact students' academic performance?
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Hotel Booking Analysis, Process and analyze hotel booking data to identify trends, booking preferences, and cancellations
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Predicting Work Visa in the United States
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
