@@ -1,5 +1,27 @@
 # Data Scientist
 
+## Technical skills
+**Database software**: PostgreSQL/PostGIS, MySQL 
+
+**Data Analysis**: HTML, CSS, PHP, Python, Tableau, PowerBI
+
+**GIS software**: Illustrator, MapInfo, MaPublisher, Global Mapper, ArcGis, QGis
+
+## Education
+- M.S.,Data Science | Bellevue University of Nebraska (_August 2024_)							       		
+- License Pro, Geographic Information Systems & Technology	| The National Geographic Sciences School of France (_October 2012_)	 	   		
+- B.S., Computer science | UNIKA University of Haiti (_June 2005_)
+
+## Work Experience
+**GIS Analyst @ The National Geospatial Information Center, CNIGS (_Mars 2007 - Present)**
+- Map creation using polygons, lines, and points to represent visual data
+- Utilized GIS software to create and analyze spatial data for various projects
+- Developed GIS applications for data analysis and visualization
+- Created GIS maps for presentation and provided technical assistance to clients
+- Performed GIS data collection and analysis using various software, including ArcGIS and MapInfo
+- Developed and maintained GIS databases using various tools and techniques
+- Prepared and maintained GIS maps and data for various projects
+
 ## Projects list in Data science
 ### 1- Avocado Price Prediction
 #### Description
