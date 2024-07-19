@@ -38,6 +38,7 @@ The system utilizes machine learning techniques to predict the agricultural yiel
 ### 3- Energy Consumption Predictive Model for Bundoora Campus
 #### Description
 We are developing an Energy Consumption Predictive Model using regression modeling to improve energy efficiency and reduce operating costs. This model can predict numerical values by analyzing historical and real-time data, such as energy usage, weather conditions, gas and water consumption, and daily electricity usage. By identifying areas of excessive energy use and implementing energy-efficient measures, the model can help boost profitability.
+
 [Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
 
 
