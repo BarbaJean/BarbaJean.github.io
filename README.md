@@ -66,12 +66,14 @@ The project aims to develop a model that can predict a candidate's outcome based
 The dataset I used was the SAIPE School District Estimates for 2021/ Estimates for Every School District in the Nation. 
 The Small Area Income and Poverty Estimates Program (SAIPE) estimates poverty for states, counties, and school districts, as well as median household income for states and counties. These projections are based on statistical models that combine population projections, household surveys, administrative data, and results from the decennial census.
 
+[Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/SAIPE%20School%20District)
 
 ### 8- Connecting to an API/Pulling in the Data and Cleaning/Formatting
 #### Description
 API used: US Public School 
 #### Description
 My goal in working with this dataset was to clean the data, which involved several steps, such as converting strings to lower or proper case, identifying and addressing missing data, dealing with inconsistent values, finding outliers, identifying duplicates, and grouping data by state. During this process, I filled in missing data with the string 'not available' and removed outliers from the 'ft_teacher' column. I made these modifications to practice handling missing data and outliers as part of this project.
+
 
 ### 9- Recommender System
 #### Description
