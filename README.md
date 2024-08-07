@@ -54,17 +54,18 @@ Large-scale websites and platforms are continuously updated in real-time as comp
 
 [Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
 
-
 ### 6- Predicting Work Visa in the United States
 #### Description
-The project aims to develop a model that can predict a candidate's outcome based on their status, allowing them to determine where to apply and what their chances are of receiving a job offer.
+The project aims to develop a model that can predict a candidate's outcome based on their status, allowing them to determine where to apply and their chances of receiving a job offer.
+
+[Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Predicting%20Work%20Visa)
+
 
 ### 7- Cleaning/Formatting Flat File Source. SAIPE School District Estimates for 2021/ Estimates for Every School District in the Nation 
 #### Description
 The dataset I used was the SAIPE School District Estimates for 2021/ Estimates for Every School District in the Nation. 
-The Small Area Income and Poverty Estimates Program (SAIPE) estimates poverty for states, counties, and school districts, as well as 
-median household income for states and counties. These projections are based on statistical models that combine population projections, 
-ousehold surveys, administrative data, and results from the decennial census.
+The Small Area Income and Poverty Estimates Program (SAIPE) estimates poverty for states, counties, and school districts, as well as median household income for states and counties. These projections are based on statistical models that combine population projections, household surveys, administrative data, and results from the decennial census.
+
 
 ### 8- Connecting to an API/Pulling in the Data and Cleaning/Formatting
 #### Description
