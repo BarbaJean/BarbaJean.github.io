@@ -22,7 +22,7 @@
 - Developed and maintained GIS databases using various tools and techniques
 - Prepared and maintained GIS maps and data for various projects
 
-## Projects list in Data science
+## Projects list in Data Science
 ### 1- Avocado Price Prediction
 #### Description
 Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on location and variety, focusing on the Hass variety, which accounts for 95% of avocado consumption in the United States.
@@ -78,5 +78,13 @@ My goal in working with this dataset was to clean the data, which involved sever
 ### 9- Recommender System
 #### Description
 We used collaborative filtering based on user-item interactions to build a basic movie recommender system with the small MovieLens dataset. Collaborative filtering is a widely used technique for creating recommendation systems that rely on past behavior, such as movie ratings, to provide suggestions.
+
+[Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Recommendation%20System)
+
+### 10- Water quality prediction
+#### Description
+Predicting water quality is crucial for water planning, management, and monitoring; it is also necessary for studying water pollution and ecological conservation. Therefore, improving a practical and realistic approach to predicting water quality using machine learning is essential.
+
+
 
 
