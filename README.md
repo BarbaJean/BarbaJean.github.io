@@ -46,9 +46,14 @@ We are developing an Energy Consumption Predictive Model using regression modeli
 #### Description
 The data used in this project is a dataset available on Kaggle. The dataset is about student performance. The data is already preprocessed to prepare it for this project's primary goal, namely, to visualize the data. As we can see, the data has columns as follows: gender, age, Medu, Fedu, traveltime, Walc, health, and averagegrade. We display some statistical summaries of the numerical columns and the data output. describe() method. Before using the data, we need to clean it by dropping the unnecessary information drop (), checking missing values, and identifying outliers in the data. 
 
+[Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/academic%20performance)
+
 ### 5- Hotel Booking Analysis, Process and analyze hotel booking data to identify trends, booking preferences, and cancellations
 #### Description
 Large-scale websites and platforms are continuously updated in real-time as computer networks develop, producing copious amounts of data. For a long time, the hotel has been collecting vital information from online user comments. Data from booking systems, such as consumer choices, cancellations, and other booking-related information, can provide insightful information about the travel and tourism sector. It is imperative to conduct an efficient analysis and pinpoint noteworthy patterns to utilize this data appropriately. When data is used correctly, many inherent biases are eliminated, giving hotel chains that understand data analysis and automation a significant competitive edge their decision-making. Digital information is used by hotel data analytics to help your hotel make better decisions.
+
+[Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
+
 
 ### 6- Predicting Work Visa in the United States
 #### Description
