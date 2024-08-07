@@ -75,6 +75,7 @@ API used: US Public School
 My goal in working with this dataset was to clean the data, which involved several steps, such as converting strings to lower or proper case, identifying and addressing missing data, dealing with inconsistent values, finding outliers, identifying duplicates, and grouping data by state. During this process, I filled in missing data with the string 'not available' and removed outliers from the 'ft_teacher' column. I made these modifications to practice handling missing data and outliers as part of this project.
 
 
+
 ### 9- Recommender System
 #### Description
 We used collaborative filtering based on user-item interactions to build a basic movie recommender system with the small MovieLens dataset. Collaborative filtering is a widely used technique for creating recommendation systems that rely on past behavior, such as movie ratings, to provide suggestions.
@@ -84,6 +85,8 @@ We used collaborative filtering based on user-item interactions to build a basic
 ### 10- Water quality prediction
 #### Description
 Predicting water quality is crucial for water planning, management, and monitoring; it is also necessary for studying water pollution and ecological conservation. Therefore, improving a practical and realistic approach to predicting water quality using machine learning is essential.
+
+[Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Water%20Quality)
 
 
 
