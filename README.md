@@ -1,6 +1,6 @@
 ## Data Scientist
 ### About Me
-My name is Barbara. I have a Bachelor's degree in Computer Science and over ten years of experience as a GIS analyst and cartographer. I have gained expertise in geographic information systems, spatial data analysis, and cartographic design throughout my career. I was also close to completing a Master's in Data Science, which deepened my understanding of data analytics and machine learning. With my computer science background and extensive experience in GIS, I can offer unique perspectives and innovative solutions to problems. Besides my technical skills, I am known for being a hard worker. I am passionate about my field and constantly strive to improve my skills and knowledge.
+> My name is Barbara. I have a Bachelor's degree in Computer Science and over ten years of experience as a GIS analyst and cartographer. I have gained expertise in geographic information systems, spatial data analysis, and cartographic design throughout my career. I was also close to completing a Master's in Data Science, which deepened my understanding of data analytics and machine learning. With my computer science background and extensive experience in GIS, I can offer unique perspectives and innovative solutions to problems. Besides my technical skills, I am known for being a hard worker. I am passionate about my field and constantly strive to improve my skills and knowledge.
 
 ## Technical skills
 **Database software**: PostgreSQL/PostGIS, MySQL 
