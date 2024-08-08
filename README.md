@@ -93,6 +93,7 @@ Predicting water quality is crucial for water planning, management, and monitori
 
 #### Installation
 **Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package. 
+
 **IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, visualizations, and other computational outputs. Jupyter Notebook is commonly employed for documenting and illustrating coding workflows or experimenting with code.
 
 #### Dataset
