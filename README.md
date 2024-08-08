@@ -26,7 +26,7 @@
 
 ### Projects list in Data Science 
 
-[![1- Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado.jpg)](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado-ICON.jpg))]
+[![1- Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado.jpg)](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado-ICON.jpg)
 
 
 
