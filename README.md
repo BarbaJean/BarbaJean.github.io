@@ -28,7 +28,10 @@
 
 ### 1- Avocado Price Prediction
 
-[![Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado.jpg)]
+[![Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)]
+(https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado.jpg)
+
+
 (https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)
 
 
