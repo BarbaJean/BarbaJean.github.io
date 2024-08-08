@@ -78,6 +78,7 @@ My goal in working with this dataset was to clean the data, which involved sever
 
 [! [Academic Performance](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/school2.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/US%20Public%20School)
 
+
 ### 9- Recommender System
 #### Description
 We used collaborative filtering based on user-item interactions to build a basic movie recommender system with the small MovieLens dataset. Collaborative filtering is a widely used technique for creating recommendation systems that rely on past behavior, such as movie ratings, to provide suggestions.
