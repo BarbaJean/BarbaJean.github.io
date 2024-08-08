@@ -28,14 +28,14 @@
 
 ### 1- Avocado Price Prediction
 #### Description
-  > Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on <br>    
+  > Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on  
   > location and variety, focusing on the Hass variety, which accounts for 95% of avocado consumption in the United States.
 
 [![Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Avocado1.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)
 
 ### 2- Increasing Yield and Production 
 #### Description
-The system utilizes machine learning techniques to predict the agricultural yield rate in this project. Python and the Jupiter Notebook interface are widely accepted programming languages for implementing innovative ideas in machine learning. By employing machine learning techniques such as Linear Regression, Random Forest regression, and Decision Tree regression, the project will generate forecasts for agricultural yield and production based on the provided dataset.
+> The system utilizes machine learning techniques to predict the agricultural yield rate in this project. Python and the Jupiter Notebook interface are widely accepted programming languages for implementing innovative ideas in machine learning. By employing machine learning techniques such as Linear Regression, Random Forest regression, and Decision Tree regression, the project will generate forecasts for agricultural yield and production based on the provided dataset.
 
 [![Increasing Yield and Production](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Crop-Yield-Forecasting-Teaser.jpg)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
 
