@@ -76,7 +76,7 @@ API used: US Public School
 #### Description
 My goal in working with this dataset was to clean the data, which involved several steps, such as converting strings to lower or proper case, identifying and addressing missing data, dealing with inconsistent values, finding outliers, identifying duplicates, and grouping data by state. During this process, I filled in missing data with the string 'not available' and removed outliers from the 'ft_teacher' column. I made these modifications to practice handling missing data and outliers as part of this project.
 
-[! [Academic Performance](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/school2.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/US%20Public%20School)
+[![Academic Performance](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/school2.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/US%20Public%20School)
 
 
 ### 9- Recommender System
