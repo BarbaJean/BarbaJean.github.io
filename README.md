@@ -49,8 +49,7 @@ We are developing an Energy Consumption Predictive Model using regression modeli
 #### Description
 The data used in this project is a dataset available on Kaggle. The dataset is about student performance. The data is already preprocessed to prepare it for this project's primary goal, namely, to visualize the data. As we can see, the data has columns as follows: gender, age, Medu, Fedu, traveltime, Walc, health, and averagegrade. We display some statistical summaries of the numerical columns and the data output. describe() method. Before using the data, we need to clean it by dropping the unnecessary information drop (), checking missing values, and identifying outliers in the data. 
 
-[![4- Academic Performance](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/performance_aca.png)]
-(https://github.com/BarbaJean/BarbaJean.github.io/tree/main/academic%20performance)
+[![4- Academic Performance](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/performance_aca.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/academic%20performance)
 
 ### 5- Hotel Booking Analysis, Process and analyze hotel booking data to identify trends, booking preferences, and cancellations
 #### Description
@@ -62,16 +61,14 @@ Large-scale websites and platforms are continuously updated in real-time as comp
 #### Description
 The project aims to develop a model that can predict a candidate's outcome based on their status, allowing them to determine where to apply and their chances of receiving a job offer.
 
-[![6-Work Visa](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/visa.png)]
-(https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Predicting%20Work%20Visa)
+[![6-Work Visa](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/visa.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Predicting%20Work%20Visa)
 
 ### 7- Cleaning/Formatting Flat File Source. SAIPE School District Estimates for 2021/ Estimates for Every School District in the Nation 
 #### Description
 The dataset I used was the SAIPE School District Estimates for 2021/ Estimates for Every School District in the Nation. 
 The Small Area Income and Poverty Estimates Program (SAIPE) estimates poverty for states, counties, and school districts, as well as median household income for states and counties. These projections are based on statistical models that combine population projections, household surveys, administrative data, and results from the decennial census.
 
-[![7-SAIPE School Distrit](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/school.jpg)]
-(https://github.com/BarbaJean/BarbaJean.github.io/tree/main/SAIPE%20School%20District)
+[![7-SAIPE School Distrit](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/school.jpg)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/SAIPE%20School%20District)
 
 ### 8- Connecting to an API/Pulling in the Data and Cleaning/Formatting
 #### Description
@@ -91,7 +88,8 @@ We used collaborative filtering based on user-item interactions to build a basic
 #### Description
 Predicting water quality is crucial for water planning, management, and monitoring; it is also necessary for studying water pollution and ecological conservation. Therefore, improving a practical and realistic approach to predicting water quality using machine learning is essential.
 
-[![10-Water quality prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/performance_aca.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Water%20Quality)
+[![10-Water quality prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Water.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Water%20Quality)
+
 
 ### Dataset
 ### Tools 
