@@ -93,7 +93,7 @@ Predicting water quality is crucial for water planning, management, and monitori
 [![Water quality prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Water.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Water%20Quality)
 
 
-### Installation tools for creating all project lists
+### Installation Language and tools for creating all project lists
 1. **Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package. 
 
 2. **IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, visualizations, and other computational outputs. Jupyter Notebook is commonly employed for documenting and illustrating coding workflows or experimenting with code.
