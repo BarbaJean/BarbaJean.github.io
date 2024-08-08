@@ -30,12 +30,6 @@
 
 [![Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado.jpg)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)
 
-
-
-
-(https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)
-
-
 #### Description
 Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on location and variety, focusing on the Hass variety, which accounts for 95% of avocado consumption in the United States.
 
