@@ -27,7 +27,7 @@
 ### Projects list in Data Science 
 
 ### 1- Avocado Price Prediction
-#### Description
+> #### Description
   Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on       
   location and variety, focusing on the Hass variety, which accounts for 95% of avocado consumption in the United States.
 
