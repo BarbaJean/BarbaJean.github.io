@@ -1,20 +1,20 @@
-## Data Scientist
-### About Me
+### Data Scientist
+#### About Me
 > My name is Barbara. I have a Bachelor's degree in Computer Science and over ten years of experience as a GIS analyst and cartographer. I have gained expertise in geographic information systems, spatial data analysis, and cartographic design throughout my career. I was also close to completing a Master's in Data Science, which deepened my understanding of data analytics and machine learning. With my computer science background and extensive experience in GIS, I can offer unique perspectives and innovative solutions to problems. Besides my technical skills, I am known for being a hard worker. I am passionate about my field and constantly strive to improve my skills and knowledge.
 
-## Technical skills
+### Technical skills
 **Database software**: PostgreSQL/PostGIS, MySQL 
 
 **Data Analysis**: HTML, CSS, PHP, Python, Tableau, PowerBI
 
 **GIS software**: Illustrator, MapInfo, MaPublisher, Global Mapper, ArcGis, QGis
 
-## Education
+### Education
 - M.S.,Data Science | Bellevue University of Nebraska (_August 2024_)							       		
 - License Pro, Geographic Information Systems & Technology	| The National Geographic Sciences School of France (_October 2012_)	 	   		
 - B.S., Computer science | UNIKA University of Haiti (_June 2005_)
 
-## Work Experience
+### Work Experience
 **GIS Analyst @ The National Geospatial Information Center, CNIGS (_Mars 2007 - Present)**
 - Map creation using polygons, lines, and points to represent visual data
 - Utilized GIS software to create and analyze spatial data for various projects
@@ -24,7 +24,7 @@
 - Developed and maintained GIS databases using various tools and techniques
 - Prepared and maintained GIS maps and data for various projects
 
-## Projects list in Data Science
+### Projects list in Data Science 
 ### 1- Avocado Price Prediction
 #### Description
 Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on location and variety, focusing on the Hass variety, which accounts for 95% of avocado consumption in the United States.
