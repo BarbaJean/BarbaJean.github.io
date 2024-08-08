@@ -1,5 +1,5 @@
-### GIS Analyst and Cartographer / Data Scientist
-#### About Me
+## GIS Analyst and Cartographer / Data Scientist
+### About Me
 > My name is Barbara. I have a Bachelor's degree in Computer Science and over ten years of experience as a GIS analyst and cartographer. I have gained expertise in geographic information systems, spatial data analysis, and cartographic design throughout my career. I was also close to completing a Master's in Data Science, which deepened my understanding of data analytics and machine learning. With my computer science background and extensive experience in GIS, I can offer unique perspectives and innovative solutions to problems. Besides my technical skills, I am known for being a hard worker. I am passionate about my field and constantly strive to improve my skills and knowledge.
 
 ### Technical skills
@@ -25,12 +25,12 @@
 - Prepared and maintained GIS maps and data for various projects
 
 ### Projects list in Data Science 
+
 ### 1- Avocado Price Prediction
-
-[![Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Avocado1.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)
-
 #### Description
 Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on location and variety, focusing on the Hass variety, which accounts for 95% of avocado consumption in the United States.
+
+[![Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Avocado1.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)
 
 ### 2- Increasing Yield and Production 
 #### Description
@@ -91,12 +91,13 @@ Predicting water quality is crucial for water planning, management, and monitori
 
 [![Water quality prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Water.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Water%20Quality)
 
-#### Installation
-**Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package. 
 
-**IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, visualizations, and other computational outputs. Jupyter Notebook is commonly employed for documenting and illustrating coding workflows or experimenting with code.
+#### Installation tools for creating all project lists! :Hammer and Wrench:
+1. **Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package. 
 
-#### Dataset
+2. **IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, visualizations, and other computational outputs. Jupyter Notebook is commonly employed for documenting and illustrating coding workflows or experimenting with code.
+
+#### Dataset 
 I made use of datasets that are all available on Kaggle.
 
 
