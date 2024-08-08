@@ -26,9 +26,9 @@
 
 ### Projects list in Data Science 
 ### 1- Avocado Price Prediction
+
 [![1-Avocado Price Prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/avocado.jpg)]
 (https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Avocado%20Price%20Prediction)
-
 
 #### Description
 Using the Avocado dataset, we aim to build a machine-learning model to predict the average price of the Hass avocados based on location and variety, focusing on the Hass variety, which accounts for 95% of avocado consumption in the United States.
@@ -37,27 +37,27 @@ Using the Avocado dataset, we aim to build a machine-learning model to predict t
 #### Description
 The system utilizes machine learning techniques to predict the agricultural yield rate in this project. Python and the Jupiter Notebook interface are widely accepted programming languages for implementing innovative ideas in machine learning. By employing machine learning techniques such as Linear Regression, Random Forest regression, and Decision Tree regression, the project will generate forecasts for agricultural yield and production based on the provided dataset.
 
-[![2-Increasing Yield and Production]https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Crop-Yield-Forecasting-Teaser.jpg)]
-(https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
+[![2-Increasing Yield and Production](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Crop-Yield-Forecasting-Teaser.jpg)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
 
 
 ### 3- Energy Consumption Predictive Model for Bundoora Campus
 #### Description
 We are developing an Energy Consumption Predictive Model using regression modeling to improve energy efficiency and reduce operating costs. This model can predict numerical values by analyzing historical and real-time data, such as energy usage, weather conditions, gas and water consumption, and daily electricity usage. By identifying areas of excessive energy use and implementing energy-efficient measures, the model can help boost profitability.
 
-[![3-Energy Consumption]https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/energy.jpg)]
+[![3-Energy Consumption](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/energy.jpg)]
 (https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
 
 ### 4- What factors might impact students' academic performance?
 #### Description
 The data used in this project is a dataset available on Kaggle. The dataset is about student performance. The data is already preprocessed to prepare it for this project's primary goal, namely, to visualize the data. As we can see, the data has columns as follows: gender, age, Medu, Fedu, traveltime, Walc, health, and averagegrade. We display some statistical summaries of the numerical columns and the data output. describe() method. Before using the data, we need to clean it by dropping the unnecessary information drop (), checking missing values, and identifying outliers in the data. 
 
-[![4- Academic Performance]https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/performance_aca.png)]
+[![4- Academic Performance](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/performance_aca.png)]
 (https://github.com/BarbaJean/BarbaJean.github.io/tree/main/academic%20performance)
 
 ### 5- Hotel Booking Analysis, Process and analyze hotel booking data to identify trends, booking preferences, and cancellations
 #### Description
 Large-scale websites and platforms are continuously updated in real-time as computer networks develop, producing copious amounts of data. For a long time, the hotel has been collecting vital information from online user comments. Data from booking systems, such as consumer choices, cancellations, and other booking-related information, can provide insightful information about the travel and tourism sector. It is imperative to conduct an efficient analysis and pinpoint noteworthy patterns to utilize this data appropriately. When data is used correctly, many inherent biases are eliminated, giving hotel chains that understand data analysis and automation a significant competitive edge their decision-making. Digital information is used by hotel data analytics to help your hotel make better decisions.
+
 
 [Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
 
@@ -65,7 +65,8 @@ Large-scale websites and platforms are continuously updated in real-time as comp
 #### Description
 The project aims to develop a model that can predict a candidate's outcome based on their status, allowing them to determine where to apply and their chances of receiving a job offer.
 
-[Link](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Predicting%20Work%20Visa)
+[![6-Work Visa](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/visa.png)]
+(https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Predicting%20Work%20Visa)
 
 ### 7- Cleaning/Formatting Flat File Source. SAIPE School District Estimates for 2021/ Estimates for Every School District in the Nation 
 #### Description
