@@ -1,4 +1,4 @@
-### Data Scientist
+### GIS Analyst and Cartographer / Data Scientist
 #### About Me
 > My name is Barbara. I have a Bachelor's degree in Computer Science and over ten years of experience as a GIS analyst and cartographer. I have gained expertise in geographic information systems, spatial data analysis, and cartographic design throughout my career. I was also close to completing a Master's in Data Science, which deepened my understanding of data analytics and machine learning. With my computer science background and extensive experience in GIS, I can offer unique perspectives and innovative solutions to problems. Besides my technical skills, I am known for being a hard worker. I am passionate about my field and constantly strive to improve my skills and knowledge.
 
@@ -91,9 +91,13 @@ Predicting water quality is crucial for water planning, management, and monitori
 
 [![Water quality prediction](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Water.png)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Water%20Quality)
 
+#### Installation
+**Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package. 
+**IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, visualizations, and other computational outputs. Jupyter Notebook is commonly employed for documenting and illustrating coding workflows or experimenting with code.
 
-### Dataset
-### Tools 
+#### Dataset
+I made use of datasets that are all available on Kaggle.
+
 
 
 
