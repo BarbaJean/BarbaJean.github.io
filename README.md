@@ -94,13 +94,13 @@ API used: US Public School
 ### Information concerning all the projects listed above.
 
 #### Tools
-  **- IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, 
+- **IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, 
         visualizations, and other computational outputs. Jupyter Notebook is commonly employed for documenting and illustrating coding 
         workflows or experimenting with code.
         
-  **- Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package.
+  - **Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package.
 
-  **- Libraries used**: pandas, numpy, seaborn, matplotlib, scipy.stats, scikit-learn, sklearn, API keys, JSON parsing
+  - **Libraries used**: pandas, numpy, seaborn, matplotlib, scipy.stats, scikit-learn, sklearn, API keys, JSON parsing
 
 #### Skills
   **1-Data Explanation**: Data Acquisition, Data Exploration, Data Cleaning, Data Visualization, Data Transformation
