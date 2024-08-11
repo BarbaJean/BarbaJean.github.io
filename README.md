@@ -97,12 +97,16 @@ API used: US Public School
 **1- IDE**(Integrated Development Environment): I utilized Jupyter Notebook to generate interactive notebook documents with live code, 
         visualizations, and other computational outputs. Jupyter Notebook is commonly employed for documenting and illustrating coding 
         workflows or experimenting with code.
-**2- Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package. 
+        
+**2- Python**: The code requires Python versions of 3.* and general libraries available through the Anaconda package.
+
 **3- Libraries used**: pandas, numpy, seaborn, matplotlib, scipy.stats, scikit-learn, sklearn, API keys, JSON parsing
 
 #### Skills
 **1-Data Explanation**: Data Acquisition, Data Exploration, Data Cleaning, Data Visualization, Data Transformation
+
 **2- Predictive modelings**: Linear regression, Logistic Regression, Random Forest Regression and Classifier, Decision Tree Regression and classifier, Time series-Arima.
+
 **3- Evaluation Metrics**: Mean Square Error(MSE), Root Mean Square Error(RMSE),R-square, Acuracy score, Confusion Matrix
 
 ### Dataset 
