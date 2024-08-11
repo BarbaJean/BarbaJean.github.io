@@ -37,7 +37,7 @@
 #### Description
 > The system utilizes machine learning techniques to predict the agricultural yield rate in this project. Python and the Jupiter Notebook interface are widely accepted programming languages for implementing innovative ideas in machine learning. By employing machine learning techniques such as Linear Regression, Random Forest regression, and Decision Tree regression, the project will generate forecasts for agricultural yield and production based on the provided dataset.
 
-[![Increasing Yield and Production](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Crop-Yield-Forecasting-Teaser.jpg)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
+[![Increasing Yield and Production](https://github.com/BarbaJean/BarbaJean.github.io/blob/main/image/Crop-Yield-Forecasting-Teaser.JPG)](https://github.com/BarbaJean/BarbaJean.github.io/tree/main/Increasing%20Yield)
 
 
 ### 3- Energy Consumption Predictive Model for Bundoora Campus
